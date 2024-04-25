@@ -1,0 +1,26 @@
+.cc-img img{
+    width: 350px;
+    margin: 25px;
+    opacity: 1.5;
+}
+.cc-content{
+    display: flex;
+    margin: auto;
+    margin-bottom: 25px;
+}
+.cc-details ul{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    
+}
+.cc-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 0 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}

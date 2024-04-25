@@ -1,0 +1,32 @@
+.ques{
+    border: 1px solid rgb(167, 167, 167);
+    border-radius: 10px;
+    padding:10px 20px 20px 20px;
+    margin: 10px;
+    background-color: rgb(185, 252, 115);
+    color: black;
+}   
+.btn button{
+    background-color: rgb(99, 203, 240);
+    padding: 1rem;
+    font-size: 1rem;
+    font-family: poppins;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin: 20px 0;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.btn{
+    display: flex;
+    justify-content: center;
+
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}

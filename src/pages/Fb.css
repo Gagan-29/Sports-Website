@@ -1,0 +1,94 @@
+h2{
+    color: white;
+    background-color: rgb(4, 4, 3);
+    margin: 15px 0 15px 0px;
+    padding: 10px;
+}
+h3{
+    margin: 10px;
+}
+hr{
+    margin: 10px 0 10px 0;
+    height: 3px; background-color: black;
+}
+.playersimg{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+
+}
+.infoimg,.cardsimg,.groundimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    
+}
+.groundimg img{
+    width: 700px;
+}
+.cardsimg img{
+    width: 200px;
+    opacity: 2;
+}
+.infoimg img{
+    width: 600px;
+    opacity: 2;
+}
+.player{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.player>img{
+    border-radius: 1rem;
+    height: 300px;
+    width: 300px;
+    opacity: 2;
+}
+.rules{
+    background-color: aquamarine;
+    padding: 1rem;
+    margin: 50px 10px 0px 10px;
+    border-radius: 1rem;
+    font-size: medium;
+}
+ol{
+    list-style-position: inside;
+}
+.info{
+    background-color: blanchedalmond;
+    padding: 1rem;
+    margin: 50px 10px 0px 10px;
+    border-radius: 1rem;
+    font-size: medium;
+}
+ul{
+    list-style-position: inside;
+}
+.cards{
+    background-color: rgb(244, 170, 231);
+    padding: 1rem;
+    margin: 50px 10px 0 10px;
+    border-radius: 1rem;
+    font-size: medium;
+}
+.ground{
+    background-color: rgb(97, 218, 212);
+    padding: 1rem;
+    margin: 50px 10px 0 10px;
+    border-radius: 1rem;
+    font-size: medium;
+}
+.greatplayers{
+    background-color: rgb(199, 233, 152);
+    padding: 1rem;
+    margin: 50px 10px 50px 10px;
+    border-radius: 1rem;
+    font-size: medium;
+}
+#fb{
+    color: white;
+}
